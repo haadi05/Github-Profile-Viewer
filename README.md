@@ -6,7 +6,7 @@ A React app to search and display GitHub user profiles along with their public r
 
 ## Preview
 
-</img src="./src/assets/readmeImg.png">
+<img src="./src/assets/readmeImg.png"/>
 
 ## Features
 
