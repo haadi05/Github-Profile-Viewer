@@ -24,12 +24,3 @@ A React app to search and display GitHub user profiles along with their public r
 
 - **Frontend:** React, React Router DOM, Tailwind CSS
 - **API:** GitHub REST API
-
----
-
-## Usage
-
-- Enter a GitHub username in the search bar.
-- Press Enter or click the search button.
-- Navigate to the profile page to view the user's info and repositories.
-- Scroll through the repositories displayed as cards.
